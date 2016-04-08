@@ -1,3 +1,1 @@
-var veryToughWord = function a(){
-	console.log("this is pitty");
-}
+something whick will be added in staging area
